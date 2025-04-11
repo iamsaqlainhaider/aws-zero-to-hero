@@ -1,4 +1,4 @@
-# AWS DevOps: Zero to Hero - A 30-Day Learning Path
+# AWS: Zero to Hero - A 30-Day Learning Path
 
 This comprehensive 30-day program is designed to equip IT Professionals with essential AWS skills, progressing from foundational knowledge to advanced practices. It includes a complete YouTube playlist ([#Will be sharing later]) and this GitHub repository featuring projects, presentations, interview preparation materials, and real-time scenarios.
 
